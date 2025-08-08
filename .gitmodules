@@ -1,0 +1,3 @@
+[submodule "cybernetics"]
+	path = cybernetics
+	url = https://github.com/Gong-Mi/cybernetics.git
